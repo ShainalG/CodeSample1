@@ -1,1 +1,2 @@
-cd c:\go_workarea\src\github.com\CodeSample1
+cd c:/go_workarea/src/github.com/CodeSample1
+git status - shows you all the files that are new
